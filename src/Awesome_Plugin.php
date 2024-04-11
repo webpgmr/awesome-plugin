@@ -129,7 +129,7 @@ class Awesome_Plugin
 
         
         add_action( 'init', function() {
-            register_extended_post_type('awesome');
+            register_extended_post_type('awesomes');
         });
 
     }
