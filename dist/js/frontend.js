@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_roots_bud=self.webpackChunk_roots_bud||[]).push([[495],{"./frontend/scss/app.scss":()=>{},jquery:s=>{s.exports=window.jQuery},"./frontend/js/app.js":(s,e,p)=>{p("jquery")}},s=>{var e=e=>s(s.s=e);e("./frontend/js/app.js"),e("./frontend/scss/app.scss")}]);

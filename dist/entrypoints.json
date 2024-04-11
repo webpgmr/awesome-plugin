@@ -1,0 +1,26 @@
+{
+  "frontend": {
+    "js": [
+      "js/runtime.js",
+      "js/frontend.js"
+    ],
+    "css": [
+      "css/frontend.css"
+    ],
+    "dependencies": [
+      "jquery"
+    ]
+  },
+  "admin": {
+    "js": [
+      "js/runtime.js",
+      "js/admin.js"
+    ],
+    "css": [
+      "css/admin.css"
+    ],
+    "dependencies": [
+      "jquery"
+    ]
+  }
+}
