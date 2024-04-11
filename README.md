@@ -1,4 +1,4 @@
-# What is this awesome plugin
+# awesome plugin
 register a custom post type named "Awesomes."
 
 
