@@ -14,7 +14,7 @@
  *
  * @wordpress-plugin
  * Plugin Name:       Awesome Plugin
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       This Plugin creates a custom post type awesomes.
  * Version:           1.0.0
  * Requires PHP:      7.4
  * License:           GPL-2.0+
